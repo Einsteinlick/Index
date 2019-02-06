@@ -13,7 +13,7 @@
   4. [Функции](https://github.com/HowProgrammingWorks/Function) включая
   анонимные и лямбда-выражения, чистые функции и побочные эффекты
   5. Суперпозиция и
-  [конпозиция](https://github.com/HowProgrammingWorks/Composition) функций,
+  [композиция](https://github.com/HowProgrammingWorks/Composition) функций,
   [частичное применение](https://github.com/HowProgrammingWorks/PartialApplication),
   каррирование и [функции-обертки](https://github.com/HowProgrammingWorks/Wrapper)
   6. Функции [высшего порядка](https://github.com/HowProgrammingWorks/HigherOrderFunction)
